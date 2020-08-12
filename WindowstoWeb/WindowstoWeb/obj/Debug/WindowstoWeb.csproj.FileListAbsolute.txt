@@ -7,3 +7,13 @@ F:\Projects\TechAffinity\R&D\WindowstoWeb\WindowstoWeb\obj\Debug\WindowstoWeb.Pr
 F:\Projects\TechAffinity\R&D\WindowstoWeb\WindowstoWeb\obj\Debug\WindowstoWeb.csproj.GenerateResource.cache
 F:\Projects\TechAffinity\R&D\WindowstoWeb\WindowstoWeb\obj\Debug\WindowstoWeb.exe
 F:\Projects\TechAffinity\R&D\WindowstoWeb\WindowstoWeb\obj\Debug\WindowstoWeb.pdb
+F:\Projects\TechAffinity\R&D\WindowstoWeb\WindowstoWeb\WindowstoWeb\bin\Debug\WindowstoWeb.exe.config
+F:\Projects\TechAffinity\R&D\WindowstoWeb\WindowstoWeb\WindowstoWeb\bin\Debug\WindowstoWeb.exe
+F:\Projects\TechAffinity\R&D\WindowstoWeb\WindowstoWeb\WindowstoWeb\bin\Debug\WindowstoWeb.pdb
+F:\Projects\TechAffinity\R&D\WindowstoWeb\WindowstoWeb\WindowstoWeb\obj\Debug\WindowstoWeb.DashBoard.resources
+F:\Projects\TechAffinity\R&D\WindowstoWeb\WindowstoWeb\WindowstoWeb\obj\Debug\WindowstoWeb.FileExplorer.resources
+F:\Projects\TechAffinity\R&D\WindowstoWeb\WindowstoWeb\WindowstoWeb\obj\Debug\WindowstoWeb.Properties.Resources.resources
+F:\Projects\TechAffinity\R&D\WindowstoWeb\WindowstoWeb\WindowstoWeb\obj\Debug\WindowstoWeb.csproj.GenerateResource.cache
+F:\Projects\TechAffinity\R&D\WindowstoWeb\WindowstoWeb\WindowstoWeb\obj\Debug\WindowstoWeb.exe
+F:\Projects\TechAffinity\R&D\WindowstoWeb\WindowstoWeb\WindowstoWeb\obj\Debug\WindowstoWeb.pdb
+F:\Projects\TechAffinity\R&D\WindowstoWeb\WindowstoWeb\WindowstoWeb\obj\Debug\WindowstoWeb.csprojAssemblyReference.cache
