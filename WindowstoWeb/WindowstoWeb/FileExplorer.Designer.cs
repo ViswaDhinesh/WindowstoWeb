@@ -63,6 +63,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.txtPath);
             this.Controls.Add(this.btnOpenFile);
+            this.MaximizeBox = false;
             this.Name = "FileExplorer";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;

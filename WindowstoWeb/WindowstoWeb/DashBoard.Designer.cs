@@ -136,6 +136,7 @@
             this.Controls.Add(this.btnGmail);
             this.Controls.Add(this.btnSiginIn);
             this.KeyPreview = true;
+            this.MaximizeBox = false;
             this.Name = "DashBoard";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
